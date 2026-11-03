@@ -1,0 +1,12 @@
+project:
+  type: default
+  output-dir: docs
+  render:
+    - "20*/index.qmd"
+
+format:
+  revealjs:
+    theme: [default, slide-kit/cdss-slides.scss]
+    slide-number: true
+    transition: fade
+    hash: true
