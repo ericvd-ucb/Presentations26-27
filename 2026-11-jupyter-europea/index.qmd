@@ -427,7 +427,7 @@ Students write their own analysis on a new question.
 ::::
 
 ::: {.bottom-question}
-Is notebook-based instruction a change in how we teach computing?
+Is notebook-based instruction changing the way we teach computing, math and science?
 :::
 
 ::: notes
@@ -448,6 +448,7 @@ They are part of the scientific and professional computing ecosystem.
 
 - Students learn to explore, troubleshoot, adapt and build with the same tools professionals use.
 - Students can adapt to new technologies as they emerge.
+- Notebooks suit project-based learning and work in small teams, but you have to teach some key behaviors.
 - *Faculty need to keep evolving the curriculum to reflect changes in the professional ecosystem.*
 
 ::: notes
@@ -476,6 +477,10 @@ Python, NumPy, pandas and Jupyter are open-source projects maintained by communi
 Notebooks make methods and outputs shareable. Reproducing them also depends on environments, dependencies, data access and execution order.
 :::
 ::::
+:::
+
+::: {.bottom-question}
+I publish all my materials openly on the web, using only public data and images. I want academia to become more open.
 :::
 
 ::: notes
