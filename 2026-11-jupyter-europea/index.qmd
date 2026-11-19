@@ -64,6 +64,39 @@ Universidad Europea de Madrid<br>
 - A Google account is enough; nothing to install
 :::
 
+## Disambiguation: what is Jupyter?
+
+::: {.cards}
+:::: {.columns}
+::: {.column}
+### 1. A file type
+
+A notebook is an `.ipynb` file, stored as JSON.
+
+One file holds Markdown text, code and the computational outputs.
+:::
+::: {.column}
+### 2. A way to scaffold compute
+
+The notebook plus its packages and environment files.
+
+Together they make sure the compute works anywhere.
+:::
+::: {.column}
+### 3. A software IDE
+
+JupyterLab and Jupyter Notebook open and run notebook files.
+
+You can also work in Google Colab, VS Code and others.
+:::
+::::
+:::
+
+::: notes
+- When people say "Jupyter" they can mean any of these three
+- Today we use the file type in Colab, not the Jupyter software itself
+:::
+
 ## My path into notebooks {.profile-slide}
 
 :::: {.columns}
@@ -474,7 +507,7 @@ AlphaFold peptide design challenge on Google Cloud
 :::
 
 ::: {.bottom-question}
-Also in development: courses by María Cruz Goya López and José Naveiro.
+Also in development: courses by María Cruz Gaya López and José Naveiro.
 :::
 
 ::: notes
@@ -535,7 +568,7 @@ Also in development: courses by María Cruz Goya López and José Naveiro.
 ::: {.cards}
 :::: {.columns}
 ::: {.column}
-### María Cruz Goya López
+### María Cruz Gaya López
 
 Computación Científica I: from a CSV file to an analysis project, using NASA's Meteorite Landings open data
 
@@ -611,6 +644,39 @@ Reproducing a chart about the Spanish economy
 - Leave this slide up while people connect
 - Fallback: pre-run notebook on my laptop if Wi-Fi or accounts fail
 - 3 min
+:::
+
+## Some notes on Colab
+
+::: {.cards}
+:::: {.columns}
+::: {.column}
+### No sense of paths
+
+Be careful how you address files that go with the notebook.
+
+I point to files by their address on GitHub.
+:::
+::: {.column}
+### AI help built in
+
+Colab has an AI assistant installed.
+
+It will suggest code as you type.
+:::
+::: {.column}
+### Good for group work
+
+Share one notebook with a group.
+
+Students can work in it together.
+:::
+::::
+:::
+
+::: notes
+- Show a GitHub raw file URL in the notebook as the example
+- Decide with students when to use the AI suggestions
 :::
 
 ## Can we reproduce this chart? {.profile-slide}
