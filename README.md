@@ -8,6 +8,7 @@ Decks are built with Quarto (reveal.js) using the shared theme in `slide-kit/`. 
 
 | Date | Venue | Title | Slides |
 |---|---|---|---|
+| Nov 2026 | UE Alcobendas | Economics, Python and AI: Skills for Analytics Work | [slides](https://ericvd-ucb.github.io/Presentations26-27/2026-12-business-analytics/) |
 | Nov 2026 | Universidad Europea de Madrid | Jupyter Notebooks in the Classroom | [slides](https://ericvd-ucb.github.io/Presentations26-27/2026-11-jupyter-europea/) |
 | Nov 2026 | Universidad Europea, Madrid | AI and Education: Building What Learning Needs | [slides](https://ericvd-ucb.github.io/Presentations26-27/2026-11-europea/) |
 | Oct 2026 | Universidad Externado, Bogota | [title] | [separate repo](https://github.com/ericvd-ucb/Colombia-26-slides) |
