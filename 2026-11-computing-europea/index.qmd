@@ -15,7 +15,9 @@ format:
 [A talk and discussion for Computing students]{.subtitle}
 
 ::: {.byline}
-Eric Van Dusen | 25 November 2026 | Universidad Europea de Madrid | [github.com/ericvd-ucb](https://github.com/ericvd-ucb)
+Eric Van Dusen | 25 November 2026 | Universidad Europea de Madrid
+
+[github.com/ericvd-ucb](https://github.com/ericvd-ucb)
 :::
 
 ::: {.title-logos}

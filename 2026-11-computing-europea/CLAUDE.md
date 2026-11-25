@@ -23,7 +23,7 @@ format:
 
 ## Look
 
-- **Title slide:** `## Title {.title-dark background-color="#061436"}`, with a `.subtitle` span, a `.byline` div (name, date and always Eric's GitHub link, [github.com/ericvd-ucb](https://github.com/ericvd-ucb); no affiliation text, since the logos show it) and a `.title-logos` div containing both logos. CDSS branding appears on the title slide only. The footer shows only there.
+- **Title slide:** `## Title {.title-dark background-color="#061436"}`, with a `.subtitle` span, a `.byline` div (name, date and always Eric's GitHub link, [github.com/ericvd-ucb](https://github.com/ericvd-ucb), on its own line; no affiliation text, since the logos show it) and a `.title-logos` div containing both logos. CDSS branding appears on the title slide only. The footer shows only there.
 - **Content slides:** a short `##` title and the content. No numbered part labels or category tags above the content (such as `[1. Transferable skills]{.kicker}`); they read as AI-generated. If the talk has parts, show them once on an overview slide or with a `.section-dark` divider slide.
 - **One idea per slide.** At most 5 or 6 bullets. If it doesn't fit, split the slide; don't shrink the font.
 - **Components in the theme:** pick the one that fits the content, not for decoration.
