@@ -25,7 +25,8 @@ format:
 ::: {.byline}
 **Eric Van Dusen**<br>
 26 November 2026<br>
-[github.com/ericvd-ucb](https://github.com/ericvd-ucb)
+[github.com/ericvd-ucb](https://github.com/ericvd-ucb)<br>
+Workshop materials: [github.com/ericvd-ucb/universidad-europea-collab/Taller-IA](https://github.com/ericvd-ucb/universidad-europea-collab/tree/main/Taller-IA)
 :::
 
 ::: {.title-logos}
@@ -432,6 +433,19 @@ LORCA JupyterHub memo in progress.
 :::
 ::::
 
+## JupyterLite: Jupyter in the browser
+
+![](images/jupyterlite-try-lab.png){.shot fig-align="center" height="440" fig-alt="JupyterLab running in the browser at jupyter.org/try-jupyter, with a launcher for Python, R, C++, Fortran and SQLite kernels"}
+
+[JupyterLab running entirely in the browser through WebAssembly, with no server or installation. [jupyter.org/try-jupyter/lab](https://jupyter.org/try-jupyter/lab/)]{.caption}
+
+::: {.notes}
+- Open the link live, start a Python (Pyodide) notebook
+- Kernels run in the browser: Python, R, C++, Fortran, SQLite
+- Files are saved in the browser's storage; download to keep them
+- Leads into the small models site, which is built on JupyterLite
+:::
+
 ## Small models in the browser {.lite-slide}
 
 :::: {.columns}
@@ -471,6 +485,8 @@ A JupyterLite site where small language models run in the student's browser thro
 College of Computing, Data Science, and Society, UC Berkeley
 
 GitHub: [ericvd-ucb](https://github.com/ericvd-ucb)
+
+Workshop materials: [universidad-europea-collab/Taller-IA](https://github.com/ericvd-ucb/universidad-europea-collab/tree/main/Taller-IA)
 
 ::: {.notes}
 Offer to share the deck and the demo notebook.
