@@ -351,6 +351,37 @@ The same design questions apply: few packages, simple code, explanations in your
 Point to pilot examples from UEM faculty where they fit.
 :::
 
+## A caution on "bring your own dataset"
+
+Open-ended projects with student-chosen data often go wrong:
+
+- Students are not yet reliable judges of data quality
+- Data may be censored, suppressed or incomplete
+- The question may not match what the data can show
+- Weeks are lost to searching and cleaning
+- AI will analyse a poor dataset without objection
+
+::: {.notes}
+- Example: a team finds in week 6 that the variable they need does not exist
+- Censoring: survivorship, suppressed small counts, top-coding
+- AI can invent datasets
+:::
+
+## Structured openness
+
+1. **Curated menu:** 5 to 10 vetted datasets, open choice of question
+2. **Data audit milestone:** source, method, gaps, limits
+3. **Question and data fit check:** approved before analysis begins
+
+::: {.bottom-question}
+Freedom in the question, structure in the data.
+:::
+
+::: {.notes}
+- The audit can be AI-assisted; prompt is in the handout
+- Gabriel's open data courses as a model
+:::
+
 ## Part 5: Sharing and deploying {.section-dark background-color="#061436"}
 
 ## From your laptop to your students
